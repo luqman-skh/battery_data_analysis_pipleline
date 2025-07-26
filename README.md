@@ -54,5 +54,3 @@ pip install -r requirements.txt
    cd docs
    make html
    ```
-
-This Markdown format can be used in README files or any other documentation that supports Markdown.
