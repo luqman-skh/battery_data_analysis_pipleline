@@ -1,0 +1,12 @@
+pandas
+numpy
+matplotlib
+seaborn
+scipy
+pyarrow
+scikit-learn
+tensorflow
+metaflow
+mlflow
+xgboost
+pytest
